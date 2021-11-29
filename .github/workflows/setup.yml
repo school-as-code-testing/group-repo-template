@@ -1,1 +1,12 @@
 # uses the group repo setup action that we write
+#   we should publish it https://github.com/marketplace?type=actions
+#   so this file can just use it
+
+# create project board
+# create milestones (one per module)
+# create missing labels
+# add contributors
+# configure repository (PR checks, reviewers, ...)
+# fetch avatars
+# render readme
+# ... probably missing something
