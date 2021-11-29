@@ -1,0 +1,9 @@
+# material data is used to render the README and to create milestones & labels
+
+- name: materialName # if no URL is provided, used to render github links. always used to render material names in the README
+  chapters: 0 # providing no chapters field defaults to 0
+  assessment: optional
+  # if present, used instead of curriculumUserName to generate github repo links
+  userName: optional
+  # if present, used directly instead of rendering links to content
+  url: optional

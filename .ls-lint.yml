@@ -3,8 +3,6 @@ ls:
   .md: kebab-case | regex:[0-9A-Z\-]+
   .html: kebab-case
   .css: kebab-case
-  student-bios:
-    .md: regex:[a-z0-9A-Z\-]+
 
 ignore:
   - .git

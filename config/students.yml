@@ -1,0 +1,14 @@
+# these people will be added to the students team
+# they will have access to these repositories:
+#   home, their own private repo
+# private repos are used for:
+#   submitting module retrospectives
+#   submitting assessments
+#   private notes between admins and students
+#   POC: https://github.com/colevandersWands/student-repo
+
+- name: someone
+  # user names are used to generate private student repos
+  #  github/orgName/userName
+  userName: something
+  homePage: optional

@@ -1,0 +1,13 @@
+# -- this data used to generate org and home repo
+#  setup includes settings, labels, milestones, project boards, teams, discussions, ...
+#  home repo starts from a template such as: https://github.com/lab-antwerp-1/home
+
+accountName: school-as-code-testing # name of github user/organization
+repoName: home # name of this repository
+boards: # which project boards will you want in the home repo?
+  - name: deliverables
+    description: "text to put in the project board description"
+    number: 1 # the project number in github, filled by the action
+# these are optional, module URLs can also be declared explicitly
+curriculumUserName: HackYourFutureBelgium
+curriculumOrigin: https://home.hackyourfuture.be/curriculum
